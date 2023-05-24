@@ -171,3 +171,14 @@ a {
     font-size: 20px;
 }
 
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+}
+
+.copyright {
+    display: flex;
+    color: white;
+    margin: 20px;
+}
