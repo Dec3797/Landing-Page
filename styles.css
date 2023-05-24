@@ -58,6 +58,9 @@ a {
 .signup {
     background-color: #3882F6;
     border-radius: 5px;
+    border: solid white 1px;
+    color: white;
+    padding: 0px 8px 0px 8px;
 }
 
 .signup-container {
@@ -141,4 +144,29 @@ a {
     display: flex;
     justify-content: center;
     background-color: #e5e7eb;
+}
+
+.subscribe-container {
+    display: flex;
+    justify-content: center;
+}
+
+.subscribe-box {
+    display: flex;
+    background-color: #3882F6;
+    width: 912px;
+    margin: 100px;
+    justify-content: space-between;
+    padding: 50px;
+    border-radius: 8px;
+}
+
+.subscribe-header {
+    color: white;
+    font-size: 24px;
+}
+
+.subscribe-text {
+    color: white;
+    font-size: 20px;
 }
