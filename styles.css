@@ -1,3 +1,26 @@
 .header {
-    background-color: #1f2937;
+    background-color: #1F2937;
+}
+
+.logo-links {
+    display: flex;
+}
+
+.links {
+    display: flex;
+    margin-left: auto;
+    padding: 8px;
+}
+
+.link-2 {
+    padding: 0px 15px 0px 8px ;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.header-contents {
+    display: flex;
 }
