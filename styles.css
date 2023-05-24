@@ -24,3 +24,13 @@ a {
 .header-contents {
     display: flex;
 }
+
+.logo {
+    height: 25px;
+    width: 25px;
+}
+
+.hero-image {
+    height: 200px;
+    width: auto;
+}
